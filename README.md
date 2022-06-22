@@ -17,12 +17,12 @@ By the end of this lab you will be able to...
 
 #### Core feature:
 
-- [ ] Node/Express API written in JavaScript
-- [ ] Code to create the Express application and wire up the middleware should be written in the `app.js` file
-- [ ] Code to run the API located in the `server.js` file, where it sould import the Express application from the `app.js` code and then make sure it listens on port `3000`.
-- [ ] A `GiftExchange` model that implements two different gift-exchange algorithms.
-- [ ] An Express router living at the `/gift-exchange` endpoint to handle requests for the two different algorithms
-- [ ] Logging and error-handling middleware to enable more seamless interaction with the API
+- [X] Node/Express API written in JavaScript
+- [X] Code to create the Express application and wire up the middleware should be written in the `app.js` file
+- [X] Code to run the API located in the `server.js` file, where it sould import the Express application from the `app.js` code and then make sure it listens on port `3000`.
+- [X] A `GiftExchange` model that implements two different gift-exchange algorithms.
+- [X] An Express router living at the `/gift-exchange` endpoint to handle requests for the two different algorithms
+- [X] Logging and error-handling middleware to enable more seamless interaction with the API
 
 #### Stretch Feature:
 
